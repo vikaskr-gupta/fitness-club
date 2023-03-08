@@ -4,7 +4,8 @@ body {
     color: rgb(255, 255, 255);
     padding: 0px;
     margin: 0px;
-    background: url('Pic1.jpg');
+/*     background: url('Pic1.jpg'); */
+    bacckground-color: black;
     background-repeat: no-repeat;
     background-size: 100% 140%;
 }
